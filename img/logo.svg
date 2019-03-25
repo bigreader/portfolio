@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 800 800" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g transform="matrix(1,0,0,1,-200,-200)">
+        <g id="Color" transform="matrix(1.33333,0,0,1.33333,0,0)">
+            <path d="M450,750C450,750 450,750 450,750ZM150,449.996L412.5,449.996L412.5,747.666C264.613,729.216 150,602.887 150,450L150,449.996Z" style="fill:rgb(37,205,220);"/>
+            <path d="M412.5,152.334C424.808,150.789 437.312,150 450,150C489.773,150 527.748,157.756 562.5,171.863L562.5,728.137C527.748,742.244 489.773,750 450,750C437.312,750 424.808,749.211 412.5,747.666L412.5,152.334Z" style="fill:rgb(37,56,89);"/>
+            <path d="M562,171.658C672.167,216.057 750,324.011 750,450C750,575.989 672.167,683.943 562,728.342L562,171.658ZM450,150C450,150 450,150 450,150Z" style="fill:rgb(252,70,103);"/>
+        </g>
+    </g>
+</svg>
