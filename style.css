@@ -35,6 +35,10 @@ p a {
 	text-decoration: underline;
 }
 
+article p {
+	line-height: 1.5;
+}
+
 /* HEADER */
 
 #pattern-strip {
@@ -109,8 +113,13 @@ header nav .nav-dark:hover span { color: #253859; }
 
 /* ARTICLE */
 
+article.padded {
+	padding: 0 155px;
+}
+
 section {
 	margin-bottom: 60px;
+	position: relative;
 }
 
 .showcase section {
@@ -138,15 +147,56 @@ section {
 
 .overcap {
 	text-align: right;
-	float: right;
 	z-index: 100;
-	position: relative;
-	margin: -40px 20px 20px 0;
+	position: absolute;
+	right: 20px;
+	bottom: 20px;
 
-	color: #ffffff;
+	color: rgba(255, 255, 255, 0.8);
 	font-weight: 500;
 	text-transform: uppercase;
 	letter-spacing: 1px;
+}
+
+.overcap.dark {
+	color: rgba(0, 0, 0, 0.8);
+}
+
+.file {
+	display: flex;
+	margin: 20px 0 40px;
+	text-align: left;
+	cursor: pointer;
+}
+
+.file>img {
+	max-width: 100px;
+	max-height: 100px;
+	box-shadow: 0 10px 20px #ddd;
+	border-radius: 2px;
+	margin-right: 10px;
+}
+
+.file .file-info {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: flex-start;
+	color: #A6AFBD;
+}
+
+.file .file-info .title {
+	color: #000000;
+	font-weight: 500;
+	margin-top: 4px;
+}
+
+.file .file-info img {
+	width: 16px;
+	height: 16px;
+	position: relative;
+	top: 2px;
+	margin-right: 2px;
 }
 
 /* FOOTER */
@@ -181,6 +231,10 @@ footer p {
 
 .grey-email {
 	filter: grayscale(0.86) brightness(3.19);
+}
+
+.grey-github {
+	filter: grayscale(0.85) brightness(14.8);
 }
 
 footer:hover .greyout {
@@ -261,6 +315,10 @@ img.dnd {
 	}
 
 
+	article.padded {
+		padding: 0;
+	}
+
 	section {
 		margin-bottom: 20px;
 	}
@@ -272,6 +330,12 @@ img.dnd {
 	.showcase section img {
 		border-radius: 4px;
 	}
+
+	.overcap {
+		right: 10px;
+		bottom: 15px;
+	}
+
 
 	footer {
 		margin: 0;
@@ -317,6 +381,18 @@ img.dnd {
 		width: 20px;
 		display: inline;
 		vertical-align: -4px;
+	}
+
+
+	.overcap,
+	.overcap.dark {
+		position: relative;
+		right: 0;
+		bottom: 0;
+
+		color: #A6AFBD;
+		font-size: 0.8em;
+		font-weight: 400;
 	}
 }
 
