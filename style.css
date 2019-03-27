@@ -104,12 +104,12 @@ header nav span {
 	font-weight: 500;
 	letter-spacing: 1px;
 	text-transform: uppercase;
-	transition-duration: 0.1s;
+	transition-duration: 0.2s;
 }
 
-header nav .nav-red:hover  span { color: #fc4667; }
-header nav .nav-blue:hover span { color: #25cddc; }
-header nav .nav-dark:hover span { color: #253859; }
+.nav-red:hover  span, .nav-red.here  span { color: #fc4667; }
+.nav-blue:hover span, .nav-blue.here span { color: #25cddc; }
+.nav-dark:hover span, .nav-dark.here span { color: #253859; }
 
 /* ARTICLE */
 
@@ -221,21 +221,10 @@ footer p {
 	transition: all 0.3s cubic-bezier(.30, .50, 0, 1);
 }
 
-.grey-twitter {
-	filter: grayscale(0.91) brightness(1.25) hue-rotate(15deg);
-}
-
-.grey-linkedin {
-	filter: grayscale(0.92) brightness(2.08) hue-rotate(18deg);
-}
-
-.grey-email {
-	filter: grayscale(0.86) brightness(3.19);
-}
-
-.grey-github {
-	filter: grayscale(0.85) brightness(14.8);
-}
+.grey-twitter  { filter: grayscale(0.91) brightness(1.25) hue-rotate(15deg); }
+.grey-linkedin { filter: grayscale(0.92) brightness(2.08) hue-rotate(18deg); }
+.grey-email    { filter: grayscale(0.86) brightness(3.19); }
+.grey-github   { filter: grayscale(0.85) brightness(14.8); }
 
 footer:hover .greyout {
 	filter: none;
