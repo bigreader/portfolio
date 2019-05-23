@@ -1,24 +1,26 @@
-<section>
-	<img src="{{project.img}}">
-</section>
-
-<div class="row">
+<article>
 	<section>
-		{{{project.page.html}}}
+		<img src="{{project.img}}">
 	</section>
 
-	<aside class="links">
-		{{#if project.page.github}}
-		<a href="{{project.page.github}}">
-			View code on GitHub
-			<img src="/img/view-code.svg">
-		</a>
-		{{/if}}
-		{{#if project.page.live}}
-		<a href="{{project.page.live}}">
-			View live
-			<img src="/img/view-live.svg">
-		</a>
-		{{/if}}
-	</aside>
-</div>
+	<div class="row">
+		<section>
+			{{{project.page.html}}}
+		</section>
+
+		<aside class="links">
+			{{#if project.page.github}}
+			<a href="{{project.page.github}}">
+				View code on GitHub
+				<img src="/img/view-code.svg">
+			</a>
+			{{/if}}
+			{{#if project.page.live}}
+			<a href="{{project.page.live}}">
+				View live
+				<img src="/img/view-live.svg">
+			</a>
+			{{/if}}
+		</aside>
+	</div>
+</article>
