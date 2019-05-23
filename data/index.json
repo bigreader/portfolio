@@ -1,0 +1,29 @@
+[
+	{
+		"link": "/bootcamp/rps",
+		"img": "/img/showcase-bootcamp-rps.svg"
+	},
+	{
+		"link": "http://joshdudley.net/design/golden.html",
+		"img": "/img/showcase-golden.png",
+		"caption": "2017 • Brand, Print",
+		"dark": true
+	},
+	{
+		"link": "/bootcamp/studyhelper",
+		"img": "/img/showcase-bootcamp-studyhelper.svg"
+	},
+	{
+		"link": "http://joshdudley.net/apps/goodgame.html",
+		"img": "/img/showcase-goodgame.png"
+	},
+	{
+		"link": "/bootcamp/triviagame",
+		"img": "/img/showcase-bootcamp-triviagame.svg"
+	},
+	{
+		"link": "http://joshdudley.net/design/alero.html",
+		"img": "/img/showcase-alero.png",
+		"caption": "2017 • Brand, Web, UI"
+	}
+]
