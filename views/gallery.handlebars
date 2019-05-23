@@ -1,0 +1,10 @@
+<article class="showcase">
+	{{#each items}}
+	{{#if link}}<a href="{{link}}">{{/if}}
+		<section>
+			<img src="{{img}}">
+			<p class="overcap{{#if dark}} dark{{/if}}">{{caption}}</p>
+		</section>
+	{{#if link}}</a>{{/if}}
+	{{/each}}
+</article>

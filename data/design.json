@@ -1,0 +1,17 @@
+[
+	{
+		"link": "/design/golden",
+		"img": "/img/showcase-golden.png",
+		"caption": "2017 • Brand, Print",
+		"dark": true
+	},
+	{
+		"link": "/design/alero",
+		"img": "/img/showcase-alero.png",
+		"caption": "2017 • Brand, Web, UI"
+	},
+	{
+		"img": "/img/showcase-syt.png",
+		"caption": "2017 • Brand, Art, Print, Web, Digital"
+	}
+]
