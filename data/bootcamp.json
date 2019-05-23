@@ -1,12 +1,30 @@
 [
 	{
-		"link": "/bootcamp/rps",
-		"img": "/img/showcase-bootcamp-rps.svg",
-		"title": "RPS",
+		"link": "/bootcamp/burgers",
+		"img": "/img/showcase-bootcamp-burgers.svg",
+		"title": "Burgers",
 		"page": {
-			"html": "<h1>RPS</h1><em>Coding Bootcamp Homework #7</em><p>A multiplayer Rock Paper Scissors game.</p><ul><li>Play with others on a network multiplayer server powered by Firebase’s Realtime Database</li><li>Choose moves, see results and track win records with rigorous game logic</li><li>Chat with other players in a live global chat room</li><li>Spectate games in progress to watch and chat while others play</li></ul>",
-			"github": "https://github.com/bigreader/bootcamp-rps",
-			"live": "https://bigreader.github.io/bootcamp-rps"
+			"html": "<h1>Burgers</h1><em>Coding Bootcamp Homework #14</em><p>A burger tracker, for people who need that sort of thing.</p><ul><li>Enter a burger name to add it to the menu</li><li>Click the Devour button to move it to your history</li></ul>",
+			"github": "https://github.com/bigreader/bootcamp-burgers",
+			"live": "https://murmuring-oasis-23248.herokuapp.com"
+		}
+	},
+	{
+		"link": "/bootcamp/storefront",
+		"img": "/img/showcase-bootcamp-storefront.svg",
+		"title": "Storefront",
+		"page": {
+			"html": "<h1>Storefront</h1><em>Coding Bootcamp Homework #12</em><p>A simulated storefront for an online shopping service.</p><ul><li>View, select and order products through an interactive UI</li><li>Track products, sales and inventory in a MySQL database</li><li>Manage and restock products with a manager companion tool</li></ul>",
+			"github": "https://github.com/bigreader/bootcamp-storefront"
+		}
+	},
+	{
+		"link": "/bootcamp/liri",
+		"img": "/img/showcase-bootcamp-liri.svg",
+		"title": "LIRI",
+		"page": {
+			"html": "<h1>LIRI</h1><em>Coding Bootcamp Homework #10</em><p>Language Interpretation and Recognition Interface; a command-line tool to access several entertainment APIs.</p><ul><li>Use BandsInTown to see upcoming shows by an artist</li><li>Search Spotify for song data by title</li><li>View information about movies via OMDb</li></ul>",
+			"github": "https://github.com/bigreader/bootcamp-liri"
 		}
 	},
 	{
@@ -20,6 +38,26 @@
 		}
 	},
 	{
+		"link": "/bootcamp/rps",
+		"img": "/img/showcase-bootcamp-rps.svg",
+		"title": "RPS",
+		"page": {
+			"html": "<h1>RPS</h1><em>Coding Bootcamp Homework #7</em><p>A multiplayer Rock Paper Scissors game.</p><ul><li>Play with others on a network multiplayer server powered by Firebase’s Realtime Database</li><li>Choose moves, see results and track win records with rigorous game logic</li><li>Chat with other players in a live global chat room</li><li>Spectate games in progress to watch and chat while others play</li></ul>",
+			"github": "https://github.com/bigreader/bootcamp-rps",
+			"live": "https://bigreader.github.io/bootcamp-rps"
+		}
+	},
+	{
+		"link": "/bootcamp/gifsearch",
+		"img": "/img/showcase-bootcamp-gifsearch.svg",
+		"title": "GifSearch",
+		"page": {
+			"html": "<h1>GifSearch</h1><em>Coding Bootcamp Homework #6</em><p>A tool to find GIFs on Giphy.</p><ul><li>Choose a search term from the list to see relevant GIFs from Giphy</li><li>View ratings and static preview thumbnails for all results</li><li>Click to play each GIF individually</li><li>Add custom search terms to find your favorite subjects</li></ul>",
+			"github": "https://github.com/bigreader/bootcamp-gifsearch",
+			"live": "https://bigreader.github.io/bootcamp-gifsearch"
+		}
+	},
+	{
 		"link": "/bootcamp/triviagame",
 		"img": "/img/showcase-bootcamp-triviagame.svg",
 		"title": "Trivia Game",
@@ -27,6 +65,26 @@
 			"html": "<h1>TriviaGame</h1><em>Coding Bootcamp Homework #5</em><p>A timed trivia knowledge test.</p><ul><li>Answer multiple-choice questions before the time runs out</li><li>See the correct answer and a brief explanation</li><li>Receive a summary report of your score at the end of the test</li></ul>",
 			"github": "https://github.com/bigreader/bootcamp-triviagame",
 			"live": "https://bigreader.github.io/bootcamp-triviagame"
+		}
+	},
+	{
+		"link": "/bootcamp/crystalgame",
+		"img": "/img/showcase-bootcamp-crystalgame.svg",
+		"title": "CrystalGame",
+		"page": {
+			"html": "<h1>CrystalGame</h1><em>Coding Bootcamp Homework #4</em><p>A math-based guessing game.</p><ul><li>Try to reach a target number by adding multiples of smaller numbers</li><li>Determine what numbers you have to work with by choosing them</li><li>Meet the target exactly in as few clicks as you can</li></ul>",
+			"github": "https://github.com/bigreader/bootcamp-crystalgame",
+			"live": "https://bigreader.github.io/bootcamp-crystalgame"
+		}
+	},
+	{
+		"link": "/bootcamp/hangman",
+		"img": "/img/showcase-bootcamp-hangman.svg",
+		"title": "Hangman",
+		"page": {
+			"html": "<h1>Hangman</h1><em>Coding Bootcamp Homework #3</em><p>A classic word guessing game.</p><ul><li>Type to guess letters from a random mystery word</li><li>See which letters you've guessed, with incorrect and duplicate guesses highlighted</li><li>Try to guess the whole word before your guesses run out</li></ul>",
+			"github": "https://github.com/bigreader/bootcamp-hangman",
+			"live": "https://bigreader.github.io/bootcamp-hangman"
 		}
 	}
 ]

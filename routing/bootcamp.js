@@ -7,6 +7,7 @@ var router = express.Router();
 router.get('/', (req, res) => {
 	res.render('gallery', {
 		title: 'Bootcamp',
+		tab: {bootcamp: true},
 		items: projects
 	});
 });
@@ -17,6 +18,7 @@ router.get('/:project', (req, res) => {
 
 	res.render('project', {
 		title: project.title,
+		tab: {bootcamp: true},
 		project: project
 	});
 });
