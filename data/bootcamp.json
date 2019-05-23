@@ -1,0 +1,32 @@
+[
+	{
+		"link": "/bootcamp/rps",
+		"img": "/img/showcase-bootcamp-rps.svg",
+		"title": "RPS",
+		"page": {
+			"html": "<h1>RPS</h1><em>Coding Bootcamp Homework #7</em><p>A multiplayer Rock Paper Scissors game.</p><ul><li>Play with others on a network multiplayer server powered by Firebase’s Realtime Database</li><li>Choose moves, see results and track win records with rigorous game logic</li><li>Chat with other players in a live global chat room</li><li>Spectate games in progress to watch and chat while others play</li></ul>",
+			"github": "https://github.com/bigreader/bootcamp-rps",
+			"live": "https://bigreader.github.io/bootcamp-rps"
+		}
+	},
+	{
+		"link": "/bootcamp/studyhelper",
+		"img": "/img/showcase-bootcamp-studyhelper.svg",
+		"title": "StudyHelper",
+		"page": {
+			"html": "<h1>FocusME</h1><em>Coding Bootcamp Project I</em><p>A time tracker and study assistant.</p><ul><li>Measure and save the duration of all your study sessions</li><li>View a log of your study session history over time</li><li>See a countdown until the date of your next exam</li><li>Browse nearby study locations and see helpful tips</li></ul>",
+			"github": "https://github.com/bigreader/bootcamp-studyhelper",
+			"live": "https://bigreader.github.io/bootcamp-studyhelper"
+		}
+	},
+	{
+		"link": "/bootcamp/triviagame",
+		"img": "/img/showcase-bootcamp-triviagame.svg",
+		"title": "Trivia Game",
+		"page": {
+			"html": "<h1>TriviaGame</h1><em>Coding Bootcamp Homework #5</em><p>A timed trivia knowledge test.</p><ul><li>Answer multiple-choice questions before the time runs out</li><li>See the correct answer and a brief explanation</li><li>Receive a summary report of your score at the end of the test</li></ul>",
+			"github": "https://github.com/bigreader/bootcamp-triviagame",
+			"live": "https://bigreader.github.io/bootcamp-triviagame"
+		}
+	}
+]
