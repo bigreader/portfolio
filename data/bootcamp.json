@@ -1,5 +1,15 @@
 [
 	{
+		"link": "/bootcamp/charsheet",
+		"img": "/img/showcase-bootcamp-charsheet.svg",
+		"title": "CharSheet",
+		"page": {
+			"html": "<h1>CharSheet</h1><em>Coding Bootcamp Project II</em><p>A Dungeons &amp; Dragons character tracker.</p><ul><li>Store info and abilities for characters you play</li><li>Track changing statistics and numbers during a game</li><li>Save and view all your characters in your account</li></ul>",
+			"github": "https://github.com/bigreader/bootcamp-project2",
+			"live": "https://cryptic-earth-96193.herokuapp.com"
+		}
+	},
+	{
 		"link": "/bootcamp/burgers",
 		"img": "/img/showcase-bootcamp-burgers.svg",
 		"title": "Burgers",
