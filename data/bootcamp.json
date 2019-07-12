@@ -1,5 +1,15 @@
 [
 	{
+		"link": "/bootcamp/viewpoint",
+		"img": "/img/showcase-bootcamp-viewpoint.svg",
+		"title": "Viewpoint",
+		"page": {
+			"html": "<h1>Viewpoint</h1><em>Coding Bootcamp Capstone Project</em><p>A powerful tool to help you make more informed decisions.</p><ul><li>Enter your options, any factors you care about, and how you feel about each aspect</li><li>Viewpoint ranks your options and recommends the best</li><li>Smart insights highlight patterns in your feelings and help clarify how you feel</li></ul>",
+			"github": "https://github.com/bigreader/Viewpoint",
+			"live": "https://fierce-spire-89676.herokuapp.com"
+		}
+	},
+	{
 		"link": "/bootcamp/charsheet",
 		"img": "/img/showcase-bootcamp-charsheet.svg",
 		"title": "CharSheet",
@@ -7,44 +17,6 @@
 			"html": "<h1>CharSheet</h1><em>Coding Bootcamp Project II</em><p>A Dungeons &amp; Dragons character tracker.</p><ul><li>Store info and abilities for characters you play</li><li>Track changing statistics and numbers during a game</li><li>Save and view all your characters in your account</li></ul>",
 			"github": "https://github.com/bigreader/bootcamp-project2",
 			"live": "https://cryptic-earth-96193.herokuapp.com"
-		}
-	},
-	{
-		"link": "/bootcamp/burgers",
-		"img": "/img/showcase-bootcamp-burgers.svg",
-		"title": "Burgers",
-		"page": {
-			"html": "<h1>Burgers</h1><em>Coding Bootcamp Homework #14</em><p>A burger tracker, for people who need that sort of thing.</p><ul><li>Enter a burger name to add it to the menu</li><li>Click the Devour button to move it to your history</li></ul>",
-			"github": "https://github.com/bigreader/bootcamp-burgers",
-			"live": "https://murmuring-oasis-23248.herokuapp.com"
-		}
-	},
-	{
-		"link": "/bootcamp/storefront",
-		"img": "/img/showcase-bootcamp-storefront.svg",
-		"title": "Storefront",
-		"page": {
-			"html": "<h1>Storefront</h1><em>Coding Bootcamp Homework #12</em><p>A simulated storefront for an online shopping service.</p><ul><li>View, select and order products through an interactive UI</li><li>Track products, sales and inventory in a MySQL database</li><li>Manage and restock products with a manager companion tool</li></ul>",
-			"github": "https://github.com/bigreader/bootcamp-storefront"
-		}
-	},
-	{
-		"link": "/bootcamp/liri",
-		"img": "/img/showcase-bootcamp-liri.svg",
-		"title": "LIRI",
-		"page": {
-			"html": "<h1>LIRI</h1><em>Coding Bootcamp Homework #10</em><p>Language Interpretation and Recognition Interface; a command-line tool to access several entertainment APIs.</p><ul><li>Use BandsInTown to see upcoming shows by an artist</li><li>Search Spotify for song data by title</li><li>View information about movies via OMDb</li></ul>",
-			"github": "https://github.com/bigreader/bootcamp-liri"
-		}
-	},
-	{
-		"link": "/bootcamp/studyhelper",
-		"img": "/img/showcase-bootcamp-studyhelper.svg",
-		"title": "StudyHelper",
-		"page": {
-			"html": "<h1>FocusME</h1><em>Coding Bootcamp Project I</em><p>A time tracker and study assistant.</p><ul><li>Measure and save the duration of all your study sessions</li><li>View a log of your study session history over time</li><li>See a countdown until the date of your next exam</li><li>Browse nearby study locations and see helpful tips</li></ul>",
-			"github": "https://github.com/bigreader/bootcamp-studyhelper",
-			"live": "https://bigreader.github.io/bootcamp-studyhelper"
 		}
 	},
 	{
@@ -75,26 +47,6 @@
 			"html": "<h1>TriviaGame</h1><em>Coding Bootcamp Homework #5</em><p>A timed trivia knowledge test.</p><ul><li>Answer multiple-choice questions before the time runs out</li><li>See the correct answer and a brief explanation</li><li>Receive a summary report of your score at the end of the test</li></ul>",
 			"github": "https://github.com/bigreader/bootcamp-triviagame",
 			"live": "https://bigreader.github.io/bootcamp-triviagame"
-		}
-	},
-	{
-		"link": "/bootcamp/crystalgame",
-		"img": "/img/showcase-bootcamp-crystalgame.svg",
-		"title": "CrystalGame",
-		"page": {
-			"html": "<h1>CrystalGame</h1><em>Coding Bootcamp Homework #4</em><p>A math-based guessing game.</p><ul><li>Try to reach a target number by adding multiples of smaller numbers</li><li>Determine what numbers you have to work with by choosing them</li><li>Meet the target exactly in as few clicks as you can</li></ul>",
-			"github": "https://github.com/bigreader/bootcamp-crystalgame",
-			"live": "https://bigreader.github.io/bootcamp-crystalgame"
-		}
-	},
-	{
-		"link": "/bootcamp/hangman",
-		"img": "/img/showcase-bootcamp-hangman.svg",
-		"title": "Hangman",
-		"page": {
-			"html": "<h1>Hangman</h1><em>Coding Bootcamp Homework #3</em><p>A classic word guessing game.</p><ul><li>Type to guess letters from a random mystery word</li><li>See which letters you've guessed, with incorrect and duplicate guesses highlighted</li><li>Try to guess the whole word before your guesses run out</li></ul>",
-			"github": "https://github.com/bigreader/bootcamp-hangman",
-			"live": "https://bigreader.github.io/bootcamp-hangman"
 		}
 	}
 ]
