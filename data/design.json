@@ -1,16 +1,16 @@
 [
 	{
-		"img": "/img/showcase-golden.png",
-		"caption": "2017 • Brand, Print",
-		"dark": true
-	},
-	{
 		"link": "/design/alero",
 		"img": "/img/showcase-alero.png",
 		"caption": "2017 • Brand, Web, UI",
 		"page": {
 			"src": "/design/alero.html"
 		}
+	},
+	{
+		"img": "/img/showcase-golden.png",
+		"caption": "2017 • Brand, Print",
+		"dark": true
 	},
 	{
 		"img": "/img/showcase-syt.png",

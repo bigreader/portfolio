@@ -30,7 +30,7 @@ router.get('/:project', (req, res) => {
 			});
 		});
 
-	} else if (project.page) {
+	} else if (project.page.html) {
 		return res.render('project', {
 			title: project.title,
 			tab: {dev: true},

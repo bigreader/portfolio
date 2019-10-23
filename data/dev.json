@@ -1,5 +1,15 @@
 [
 	{
+		"link": "/dev/viewpoint",
+		"img": "/img/showcase-bootcamp-viewpoint.svg",
+		"title": "Viewpoint",
+		"page": {
+			"html": "<h1>Viewpoint</h1><em>Coding Bootcamp Capstone Project</em><p>A powerful tool to help you make more informed decisions.</p><ul><li>Enter your options, any factors you care about, and how you feel about each aspect</li><li>Viewpoint ranks your options and recommends the best</li><li>Smart insights highlight patterns in your feelings and help clarify how you feel</li></ul>",
+			"github": "https://github.com/bigreader/Viewpoint",
+			"live": "https://fierce-spire-89676.herokuapp.com"
+		}
+	},
+	{
 		"link": "/apps/goodgame",
 		"img": "/img/showcase-goodgame.png",
 		"title": "Goodgame",
@@ -8,11 +18,31 @@
 		}
 	},
 	{
+		"link": "/dev/rps",
+		"img": "/img/showcase-bootcamp-rps.svg",
+		"title": "RPS",
+		"page": {
+			"html": "<h1>RPS</h1><em>Coding Bootcamp Homework #7</em><p>A multiplayer Rock Paper Scissors game.</p><ul><li>Play with others on a network multiplayer server powered by Firebase’s Realtime Database</li><li>Choose moves, see results and track win records with rigorous game logic</li><li>Chat with other players in a live global chat room</li><li>Spectate games in progress to watch and chat while others play</li></ul>",
+			"github": "https://github.com/bigreader/bootcamp-rps",
+			"live": "https://bigreader.github.io/bootcamp-rps"
+		}
+	},
+	{
 		"link": "/apps/persona",
 		"img": "/img/showcase-persona.png",
 		"title": "Persona",
 		"page": {
 			"src": "/apps/persona.html"
+		}
+	},
+	{
+		"link": "/dev/triviagame",
+		"img": "/img/showcase-bootcamp-triviagame.svg",
+		"title": "Trivia Game",
+		"page": {
+			"html": "<h1>TriviaGame</h1><em>Coding Bootcamp Homework #5</em><p>A timed trivia knowledge test.</p><ul><li>Answer multiple-choice questions before the time runs out</li><li>See the correct answer and a brief explanation</li><li>Receive a summary report of your score at the end of the test</li></ul>",
+			"github": "https://github.com/bigreader/bootcamp-triviagame",
+			"live": "https://bigreader.github.io/bootcamp-triviagame"
 		}
 	}
 ]
