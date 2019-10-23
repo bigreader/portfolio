@@ -1,14 +1,16 @@
 [
 	{
-		"link": "http://joshdudley.net/design/golden.html",
 		"img": "/img/showcase-golden.png",
 		"caption": "2017 • Brand, Print",
 		"dark": true
 	},
 	{
-		"link": "http://joshdudley.net/design/alero.html",
+		"link": "/design/alero",
 		"img": "/img/showcase-alero.png",
-		"caption": "2017 • Brand, Web, UI"
+		"caption": "2017 • Brand, Web, UI",
+		"page": {
+			"src": "/design/alero.html"
+		}
 	},
 	{
 		"img": "/img/showcase-syt.png",

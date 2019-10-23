@@ -132,7 +132,7 @@ section {
 	transition-duration: 0.25s;
 }
 
-.showcase section:hover img {
+.showcase a section:hover img {
 	filter: brightness(1.1);
 }
 
