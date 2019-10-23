@@ -4,7 +4,6 @@
 		"img": "/img/showcase-bootcamp-viewpoint.svg"
 	},
 	{
-		"link": "http://joshdudley.net/design/alero.html",
 		"img": "/img/showcase-alero.png",
 		"caption": "2017 • Brand, Web, UI"
 	},
@@ -13,13 +12,12 @@
 		"img": "/img/showcase-bootcamp-rps.svg"
 	},
 	{
-		"link": "http://joshdudley.net/design/golden.html",
 		"img": "/img/showcase-golden.png",
 		"caption": "2017 • Brand, Print",
 		"dark": true
 	},
 	{
-		"link": "http://joshdudley.net/apps/goodgame.html",
+		"link": "/apps/goodgame",
 		"img": "/img/showcase-goodgame.png"
 	},
 	{

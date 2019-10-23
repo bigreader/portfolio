@@ -14,13 +14,5 @@
 		"page": {
 			"src": "/apps/persona.html"
 		}
-	},
-	{
-		"link": "http://joshdudley.net/apps/goodgame.html",
-		"img": "/img/showcase-goodgame.png"
-	},
-	{
-		"link": "http://joshdudley.net/apps/persona.html",
-		"img": "/img/showcase-persona.png"
 	}
 ]

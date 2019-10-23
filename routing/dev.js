@@ -1,14 +1,14 @@
 var express = require('express');
 var fs      = require('fs');
 
-var projects = require('../data/apps.json');
+var projects = require('../data/dev.json');
 
 var router = express.Router();
 
 router.get('/', (req, res) => {
 	res.render('gallery', {
-		title: 'Apps',
-		tab: {apps: true},
+		title: 'Dev',
+		tab: {dev: true},
 		items: projects
 	});
 });
@@ -25,7 +25,7 @@ router.get('/:project', (req, res) => {
 			if (err) throw err;
 			return res.render('src', {
 				title: project.title,
-				tab: {apps: true},
+				tab: {dev: true},
 				src: data
 			});
 		});
@@ -33,7 +33,7 @@ router.get('/:project', (req, res) => {
 	} else if (project.page) {
 		return res.render('project', {
 			title: project.title,
-			tab: {apps: true},
+			tab: {dev: true},
 			project: project
 		});
 	}

@@ -16,14 +16,6 @@ router.get('/design', (req, res) => {
 	});
 });
 
-router.get('/apps', (req, res) => {
-	res.render('gallery', {
-		title: 'Apps',
-		tab: {apps: true},
-		items: require('../data/apps.json')
-	});
-});
-
 router.get('/about', (req, res) => {
 	res.render('page', {
 		tab: {about: true},
