@@ -1,0 +1,64 @@
+article {
+	font-family: -apple-system, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	/*background: #f0f2f4 url(bg-goodgame.png) top repeat-x;*/
+	margin: 12px auto;
+	max-width: 1000px;
+	/*width: 80%;*/
+
+	font-size: 16pt;
+	line-height: 20pt;
+}
+
+article.bg-goodgame {background-image: url(bg-goodgame.png);}
+article.bg-persona {background-image: url(bg-persona.png);}
+article.bg-readless {background-image: url(bg-readless.png);}
+
+section {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+section.top-align {
+	align-items: flex-start;
+	padding-top: 40px;
+}
+section .text * {
+	padding: 4px 0;
+}
+section .text img {
+	padding-bottom: 8px;
+}
+
+section .title {
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+section .title * {
+	padding: 8px 0;
+}
+
+section.download {
+	align-items: flex-start;
+}
+section.download .text {
+	width: 70%;
+}
+section.download img {
+	margin-top: 12px;
+}
+
+article .app-logo {
+	margin-bottom: auto;
+	width: 100%;
+	max-width: 400px;
+}
+article .bubble {
+	width: 100px;
+}
+article .pull {
+	font-size: 20pt;
+	line-height: 24pt;
+	font-weight: 500;
+}

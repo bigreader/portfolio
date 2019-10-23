@@ -11,3 +11,4 @@ app.set('view engine', 'handlebars');
 app.use(express.static('public'));
 app.use('/', require('./routing/routes.js'));
 app.use('/bootcamp', require('./routing/bootcamp.js'));
+app.use('/apps', require('./routing/apps.js'));

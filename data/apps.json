@@ -1,5 +1,21 @@
 [
 	{
+		"link": "/apps/goodgame",
+		"img": "/img/showcase-goodgame.png",
+		"title": "Goodgame",
+		"page": {
+			"src": "/apps/goodgame.html"
+		}
+	},
+	{
+		"link": "/apps/persona",
+		"img": "/img/showcase-persona.png",
+		"title": "Persona",
+		"page": {
+			"src": "/apps/persona.html"
+		}
+	},
+	{
 		"link": "http://joshdudley.net/apps/goodgame.html",
 		"img": "/img/showcase-goodgame.png"
 	},
