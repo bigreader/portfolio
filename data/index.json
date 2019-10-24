@@ -1,14 +1,15 @@
 [
 	{
-		"link": "/bootcamp/viewpoint",
+		"link": "/dev/viewpoint",
 		"img": "/img/showcase-bootcamp-viewpoint.svg"
 	},
 	{
+		"link": "/design/alero",
 		"img": "/img/showcase-alero.png",
 		"caption": "2017 • Brand, Web, UI"
 	},
 	{
-		"link": "/bootcamp/rps",
+		"link": "/dev/rps",
 		"img": "/img/showcase-bootcamp-rps.svg"
 	},
 	{
@@ -21,7 +22,7 @@
 		"img": "/img/showcase-goodgame.png"
 	},
 	{
-		"link": "/bootcamp/triviagame",
+		"link": "/dev/triviagame",
 		"img": "/img/showcase-bootcamp-triviagame.svg"
 	}
 ]
