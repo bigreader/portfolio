@@ -62,3 +62,23 @@ article .pull {
 	line-height: 24pt;
 	font-weight: 500;
 }
+
+.screen {
+	max-width: 100%;
+}
+
+@media (max-width: 766px) { /* MD */
+	article {
+		font-size: 12pt;
+		line-height: 14pt;
+	}
+	section {
+		flex-direction: column;
+	}
+	.screen {
+		margin-right: 20%;
+	}
+	section.download .text {
+		width: 100%;
+	}
+}
