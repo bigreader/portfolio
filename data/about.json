@@ -1,11 +1,12 @@
 {
 	"text": [
-		"Hey, I’m Josh! I’m a designer and developer for interactive sites, apps and other tools to make people’s lives better. My childhood curiosity about how things work has become a passion for building intuitive, powerful experiences. I love everything from graphic design to back-end code; I’ve spent years developing a wide range of certified skills in visual design, web coding, interaction design, and general technical know-how. I’m a motivated and resourceful learner, and I love finding elegant solutions to complex objectives."
+		"Hey, I’m Josh! I’m a designer and developer for interactive sites, apps and other tools to make people’s lives better. My childhood curiosity about how things work has become a passion for building intuitive, powerful experiences.",
+		"I love everything from graphic design to back-end code; I’ve spent years developing a wide range of certified skills in visual design, web coding, interaction design, and general technical know-how. Through classes, an intensive bootcamp, freelance work, and enthusiastic self-education, I’ve gained experience with the latest and greatest tools and techniques and how to apply them to building amazing deployed projects. I’m a motivated and resourceful learner, and I love finding elegant solutions to complex objectives."
 	],
 	"file": {
 		"path": "/assets/JoshDudley-Resume.pdf",
 		"thumbnail": "/img/file-resume.png",
 		"title": "Resume",
-		"detail": "PDF (431 KB)"
+		"detail": "PDF (423 KB)"
 	}
 }

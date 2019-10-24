@@ -39,6 +39,10 @@ article p {
 	line-height: 1.5;
 }
 
+article p.content {
+	margin-bottom: 8px;
+}
+
 /* HEADER */
 
 #pattern-strip {
