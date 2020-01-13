@@ -3,24 +3,29 @@
 		<img src="{{project.img}}">
 	</section>
 
+	{{#with project.page}}
 	<div class="row">
 		<section>
-			{{{project.page.html}}}
+			{{{html}}}
+			{{#if tech}}
+				<i>Tech used: {{tech}}</i>
+			{{/if}}
 		</section>
 
 		<aside class="links">
-			{{#if project.page.github}}
-			<a href="{{project.page.github}}">
+			{{#if github}}
+			<a href="{{github}}">
 				View code on GitHub
 				<img src="/img/view-code.svg">
 			</a>
 			{{/if}}
-			{{#if project.page.live}}
-			<a href="{{project.page.live}}">
+			{{#if live}}
+			<a href="{{live}}">
 				View live
 				<img src="/img/view-live.svg">
 			</a>
 			{{/if}}
 		</aside>
 	</div>
+	{{/with}}
 </article>

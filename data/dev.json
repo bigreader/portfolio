@@ -6,7 +6,17 @@
 		"page": {
 			"html": "<h1>Viewpoint</h1><em>Coding Bootcamp Capstone Project</em><p>A powerful tool to help you make more informed decisions.</p><ul><li>Enter your options, any factors you care about, and how you feel about each aspect</li><li>Viewpoint ranks your options and recommends the best</li><li>Smart insights highlight patterns in your feelings and help clarify how you feel</li></ul>",
 			"github": "https://github.com/bigreader/Viewpoint",
-			"live": "https://fierce-spire-89676.herokuapp.com"
+			"live": "https://fierce-spire-89676.herokuapp.com",
+			"tech": "React, Express, MongoDB, Node.js"
+		}
+	},
+	{
+		"link": "/dev/luthersem",
+		"img": "/img/showcase-luthersem.svg",
+		"title": "Luther Seminary",
+		"page": {
+			"html": "<h1>Luther Seminary</h1><p>The Luther Seminary family of sites are powered by a shared custom CMS, providing easy access to bespoke features, a lightweight self-contained backend, and a user-friendly experience for faculty and staff to work with the site content.</p><p>I worked with the team to rebuild and improve components to new specs, create new components to integrate into the CMS, and design and develop the front-end styling to bring it all together.</p>",
+			"tech": "Luther CMS, .NET"
 		}
 	},
 	{
@@ -24,7 +34,8 @@
 		"page": {
 			"html": "<h1>RPS</h1><em>Coding Bootcamp Homework #7</em><p>A multiplayer Rock Paper Scissors game.</p><ul><li>Play with others on a network multiplayer server powered by Firebase’s Realtime Database</li><li>Choose moves, see results and track win records with rigorous game logic</li><li>Chat with other players in a live global chat room</li><li>Spectate games in progress to watch and chat while others play</li></ul>",
 			"github": "https://github.com/bigreader/bootcamp-rps",
-			"live": "https://bigreader.github.io/bootcamp-rps"
+			"live": "https://bigreader.github.io/bootcamp-rps",
+			"tech": "Firebase"
 		}
 	},
 	{
@@ -42,7 +53,8 @@
 		"page": {
 			"html": "<h1>TriviaGame</h1><em>Coding Bootcamp Homework #5</em><p>A timed trivia knowledge test.</p><ul><li>Answer multiple-choice questions before the time runs out</li><li>See the correct answer and a brief explanation</li><li>Receive a summary report of your score at the end of the test</li></ul>",
 			"github": "https://github.com/bigreader/bootcamp-triviagame",
-			"live": "https://bigreader.github.io/bootcamp-triviagame"
+			"live": "https://bigreader.github.io/bootcamp-triviagame",
+			"tech": "jQuery, Bootstrap, Advanced CSS"
 		}
 	}
 ]
